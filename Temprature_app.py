@@ -1,11 +1,3 @@
-# 🌡️ Temperature Conversion Program
-# This program contains functions to convert temperatures
-# between Celsius, Fahrenheit, and Kelvin scales.
-
-# -------------------------------------------------------------
-
-#  all functions and formulas 
- 
 
 def fahrenheit_to_celsius(fahrenheit_temp):
     celsius_temp = 5/9*(fahrenheit_temp-32)
@@ -112,10 +104,9 @@ def main():
         else:
             print("❌ Invalid choice! Please try again.")
 
-# -------------------------------------------------------------
-
 main()
            
         
+
 
 
